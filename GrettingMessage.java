@@ -1,4 +1,4 @@
-#Gretting Message
+// Gretting Message
 class GreetingMessage {
     public static void main(String[] args) {
         String name = "Andreaaa";   
