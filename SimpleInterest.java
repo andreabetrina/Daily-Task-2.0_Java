@@ -10,4 +10,3 @@ SI =  (P*N*R)/100;
 System.out.println("Simple Interest is "+SI);
 }
 }
-
