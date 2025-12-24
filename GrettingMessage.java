@@ -6,5 +6,3 @@ class GreetingMessage {
         System.out.println(name + ", I'm a member of Belmontiess!!!");
     }
 }
-
-
