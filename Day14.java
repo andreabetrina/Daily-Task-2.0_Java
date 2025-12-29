@@ -1,6 +1,7 @@
 //Write a program to calculate the commission amount and commission percentage based on the sales amount using the following conditions:
 If sales amount is greater than ₹10,000, commission rate is 10%
 If sales amount is greater than ₹5,000, commission rate is 5%
+        
 Otherwise, no commission
 The program should display the commission percentage and the commission amount.
 
