@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        int side = 4;
+        int TSA = 6*(side*side);
+
+        System.out.println("TSA of a cube is " + TSA);
+    }
+}
