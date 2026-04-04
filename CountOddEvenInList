@@ -15,6 +15,3 @@
         System.out.println("Even: " + evenCount + ", Odd: " + oddCount);
     }
 }
-
-
-
