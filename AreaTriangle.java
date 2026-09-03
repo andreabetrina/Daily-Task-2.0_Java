@@ -5,8 +5,11 @@ public class Main {
         int area = base*height*1/2;
 
         System.out.println("Area of Triangle " + area);
+        
     }
 }
+
+
 
 
 
