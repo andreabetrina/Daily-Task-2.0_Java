@@ -5,6 +5,8 @@ If sales amount is greater than ₹5,000, commission rate is 5%
 Otherwise, no commission
 The program should display the commission percentage and the commission amount.
 
+
+        
 class CPCM {
 public static void main(String args[]) {
         double Amt = 12000;
