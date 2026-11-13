@@ -6,6 +6,7 @@ Input: HELLO
 
 Output: OLLEH
 
+    
 Explanation
 
 Original string: HELLO
