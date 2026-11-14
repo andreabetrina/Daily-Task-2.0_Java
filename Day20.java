@@ -16,6 +16,8 @@ Append each character in reverse order.
 Step-by-step:
 Read O
 Then L
+
+    
 Then L
 Then E
 Then H
